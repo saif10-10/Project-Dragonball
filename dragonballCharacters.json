@@ -1,0 +1,192 @@
+[
+    {
+      "id": "1",
+      "name": "Goku",
+      "description": "The main protagonist of the Dragon Ball series. Goku is a Saiyan warrior on a quest to protect Earth from various threats.",
+      "age": 35,
+      "isActive": true,
+      "birthDate": "737-04-16",
+      "imageUrl": "https://static.wikia.nocookie.net/dragonball/images/b/ba/Goku_anime_profile.png/revision/latest?cb=20220825041430",
+      "status": "active",
+      "specialMoves": ["Kamehameha", "Spirit Bomb", "Instant Transmission"],
+      "race": "Saiyan",
+      "otherObject": {
+        "id": "ZEN-001",
+        "powerLevel": 9000,
+        "hasRegeneration": false,
+        "hasTransformation": true,
+        "imageURL": "https://i.pinimg.com/736x/1f/f8/a3/1ff8a333a9cefd3140d214fccad21a4c.jpg"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Vegeta",
+      "description": "The proud Saiyan prince who starts as Goku's rival but later becomes his ally in protecting Earth.",
+      "age": 40,
+      "isActive": true,
+      "birthDate": "732-12-05",
+      "imageUrl": "https://static.wikia.nocookie.net/dragonball/images/2/2e/Vegeta_%28Render%29.png/revision/latest/scale-to-width-down/250?cb=20140702192900&path-prefix=nl",
+      "status": "active",
+      "specialMoves": ["Final Flash", "Galick Gun", "Big Bang Attack"],
+      "race": "Saiyan",
+      "otherObject": {
+        "id": "ZEN-002",
+        "powerLevel": 8500,
+        "hasRegeneration": false,
+        "hasTransformation": true,
+        "imageURL": "https://static.wikia.nocookie.net/dragonball/images/9/94/Ultra_Ego_Vegeta.PNG/revision/latest?cb=20220328144600"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Piccolo",
+      "description": "A Namekian warrior and former villain turned Earth's protector and mentor to Gohan.",
+      "age": 31,
+      "isActive": true,
+      "birthDate": "Age 753",
+      "imageUrl": "https://static.wikia.nocookie.net/dragonball/images/3/3c/Piccolo2.png/revision/latest?cb=20140702211352&path-prefix=nl",
+      "status": "active",
+      "specialMoves": ["Special Beam Cannon", "Hellzone Grenade", "Makankosappo"],
+      "race": "Namekian",
+      "otherObject": {
+        "id": "ZEN-003",
+        "powerLevel": 7000,
+        "hasRegeneration": true,
+        "hasTransformation": true,
+        "imageURL": "https://qph.cf2.quoracdn.net/main-qimg-789ea5126c393a7b272404bfda6e6314"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Gohan",
+      "description": "Goku's son and one of the strongest fighters on Earth. Gohan is a scholar but also a powerful warrior.",
+      "age": 27,
+      "isActive": true,
+      "birthDate": "757-05-18",
+      "imageUrl": "https://static.wikia.nocookie.net/dragonball/images/3/3b/Gohan_anime_profile_3.png/revision/latest?cb=20231026205551",
+      "status": "active",
+      "specialMoves": ["Masenko", "Father-Son Kamehameha", "Potential Unleashed"],
+      "race": "Half-Saiyan",
+      "otherObject": {
+        "id": "ZEN-004",
+        "powerLevel": 8000,
+        "hasRegeneration": false,
+        "hasTransformation": true,
+        "imageURL": "https://static.wikia.nocookie.net/dragonball/images/d/d9/FinalBeastGohan.jpg/revision/latest?cb=20220628225714"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Trunks",
+      "description": "The son of Vegeta and Bulma, Trunks is a skilled fighter who travels back in time to prevent apocalyptic events.",
+      "age": 29,
+      "isActive": true,
+      "birthDate": "766-06-14",
+      "imageUrl": "https://static.wikia.nocookie.net/dragonball/images/0/04/Future_Trunks.png/revision/latest?cb=20140702212917&path-prefix=nl",
+      "status": "active",
+      "specialMoves": ["Burning Attack", "Galick Gun", "Final Flash"],
+      "race": "Half-Saiyan",
+      "otherObject": {
+        "id": "ZEN-005",
+        "powerLevel": 7500,
+        "hasRegeneration": false,
+        "hasTransformation": true,
+        "imageURL": "https://static.wikia.nocookie.net/dragonballaffanon/images/f/f7/SSR_Trunks_Dokkan1.png/revision/latest?cb=20170406015218"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Krillin",
+      "description": "Goku's best friend and one of Earth's strongest humans. Krillin is a skilled martial artist.",
+      "age": 36,
+      "isActive": true,
+      "birthDate": "736-05-03",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Kuririn.png/220px-Kuririn.png",
+      "status": "active",
+      "specialMoves": ["Destructo Disk", "Solar Flare", "Kamehameha"],
+      "race": "Human",
+      "otherObject": {
+        "id": "ZEN-006",
+        "powerLevel": 4000,
+        "hasRegeneration": false,
+        "hasTransformation": false,
+        "imageURL": "https://static.wikia.nocookie.net/vsbattles/images/3/38/Krillin_FighterZ.png/revision/latest?cb=20200624201018"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Android 18",
+      "description": "A former villain turned hero, Android 18 is one of the most powerful characters in the Dragon Ball series.",
+      "age": 32,
+      "isActive": true,
+      "birthDate": "767-02-18",
+      "imageUrl": "https://static.wikia.nocookie.net/dragonball/images/3/37/Android_18.png/revision/latest?cb=20140702205655&path-prefix=nl",
+      "status": "active",
+      "specialMoves": ["Energy Wave", "Accel Dance", "Power Blitz"],
+      "race": "Android",
+      "otherObject": {
+        "id": "ZEN-007",
+        "powerLevel": 8500,
+        "hasRegeneration": false,
+        "hasTransformation": false,
+        "imageURL": "https://static.wikia.nocookie.net/characterprofile/images/5/55/Android_18_vs_Vegeta.jpg/revision/latest?cb=20231218143257"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Frieza",
+      "description": "One of the most iconic villains in Dragon Ball. Frieza is a tyrant and a ruthless conqueror.",
+      "age": "Unknown",
+      "isActive": false,
+      "birthDate": "Unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/perfect-power-level-list/images/8/80/Frieza_first_form_render_2_sdbh_world_mission_by_maxiuchiha22_dd4p59r-fullview.png/revision/latest?cb=20200427000647",
+      "status": "inactive",
+      "specialMoves": ["Death Beam", "Death Ball", "Supernova"],
+      "race": "Frieza Race",
+      "otherObject": {
+        "id": "ZEN-008",
+        "powerLevel": 12000,
+        "hasRegeneration": false,
+        "hasTransformation": true,
+        "imageURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b921e2c-f158-4de2-93d7-b7ba50c5baed/dfd1if6-8db5ef91-8606-4654-982d-b74af035d4df.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNiOTIxZTJjLWYxNTgtNGRlMi05M2Q3LWI3YmE1MGM1YmFlZFwvZGZkMWlmNi04ZGI1ZWY5MS04NjA2LTQ2NTQtOTgyZC1iNzRhZjAzNWQ0ZGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ho44boYx2dBun278-PM7YtvjvIT4omUPa1LYvbhxkK8"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Cell",
+      "description": "A bio-engineered android created from the cells of various Dragon Ball characters. Cell seeks perfection through absorption.",
+      "age": "Unknown",
+      "isActive": false,
+      "birthDate": "Unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/dragonball/images/0/00/Cell_%281%C3%A8re_forme%29.png/revision/latest?cb=20190217200617&path-prefix=fr",
+      "status": "inactive",
+      "specialMoves": ["Kamehameha", "Solar Kamehameha", "Spirit Bomb Absorption"],
+      "race": "Bio-Android",
+      "otherObject": {
+        "id": "ZEN-009",
+        "powerLevel": 15000,
+        "hasRegeneration": true,
+        "hasTransformation": true,
+        "imageURL": "https://static.wikia.nocookie.net/dragonball/images/e/ed/Cell_Dragon_Ball_Z_Episode_177.png/revision/latest?cb=20210522125317"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Majin Buu",
+      "description": "An ancient and powerful entity awakened by the evil wizard Bibidi. Majin Buu is capable of destruction and regeneration.",
+      "age": "Unknown",
+      "isActive": false,
+      "birthDate": "Unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/dragonball/images/a/af/Innocent_buu.png/revision/latest/scale-to-width-down/1200?cb=20210411050353",
+      "status": "inactive",
+      "specialMoves": ["Vanishing Ball", "Chocolate Beam", "Innocence Cannon"],
+      "race": "Majin",
+      "otherObject": {
+        "id": "ZEN-010",
+        "powerLevel": 18000,
+        "hasRegeneration": true,
+        "hasTransformation": true,
+        "imageURL": "https://static.wikia.nocookie.net/dragonball/images/b/b7/Kid_Buu_Dragon_Ball_Z_Episode_277.png/revision/latest?cb=20210423162528"
+      }
+    }
+  ]
