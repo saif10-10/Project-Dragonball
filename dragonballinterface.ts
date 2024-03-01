@@ -1,3 +1,11 @@
+export interface DragonBallOtherObject {
+    id: string;
+    powerLevel: number;
+    hasRegeneration: boolean;
+    hasTransformation: boolean;
+    imageURL: string;
+}
+
 export interface DragonBallCharacter {
     id: string;
     name: string;
@@ -12,10 +20,6 @@ export interface DragonBallCharacter {
     otherObject: DragonBallOtherObject;
 }
 
-export interface DragonBallOtherObject {
-    id: string;
-    powerLevel: number;
-    hasRegeneration: boolean;
-    hasTransformation: boolean;
-    imageURL: string;
-}
+
+
+export{};
